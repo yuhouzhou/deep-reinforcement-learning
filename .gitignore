@@ -1,6 +1,9 @@
 # Large files
 Banana.app
 
+# Personized
+*Copy*.ipynb
+
 # Mac OS
 .DS_Store
 
