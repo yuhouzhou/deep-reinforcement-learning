@@ -1,5 +1,5 @@
 # Large files
-Banana.app
+*.app
 
 # Personized
 *Copy*.ipynb
